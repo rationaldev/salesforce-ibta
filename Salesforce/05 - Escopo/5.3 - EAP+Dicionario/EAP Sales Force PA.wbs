@@ -34,19 +34,19 @@
 			<task ID="16" UniqueID="17" OutlineLevel="3" Name="Testes" Duration="1d" RemainingDuration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="17" UniqueID="33" OutlineLevel="4" Name="Testes de Integra&#231;&#227;o" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="18" UniqueID="32" OutlineLevel="4" Name="Testes de Homologa&#231;&#227;o" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="19" UniqueID="37" OutlineLevel="3" Name="Avalia&#231;&#227;o dos Resultados da Implanta&#231;&#227;o" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="20" UniqueID="5" OutlineLevel="2" Name="Projeto Piloto" Duration="1d" RemainingDuration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="21" UniqueID="18" OutlineLevel="3" Name="Defini&#231;&#227;o do Projeto Piloto" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="22" UniqueID="55" OutlineLevel="3" Name="Execu&#231;&#227;o do Projeto Piloto" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="23" UniqueID="20" OutlineLevel="3" Name="Avalia&#231;&#227;o dos Resultados do Projeto Piloto" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="24" UniqueID="4" OutlineLevel="2" Name="Treinamentos" Duration="1d" RemainingDuration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="25" UniqueID="38" OutlineLevel="3" Name="Desenvolvimento dos Treinamentos" Duration="1d" RemainingDuration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="19" UniqueID="5" OutlineLevel="2" Name="Projeto Piloto" Duration="1d" RemainingDuration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="20" UniqueID="18" OutlineLevel="3" Name="Defini&#231;&#227;o do Projeto Piloto" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="21" UniqueID="55" OutlineLevel="3" Name="Execu&#231;&#227;o do Projeto Piloto" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="22" UniqueID="20" OutlineLevel="3" Name="Avalia&#231;&#227;o dos Resultados do Projeto Piloto" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="23" UniqueID="4" OutlineLevel="2" Name="Treinamentos" Duration="1d" RemainingDuration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="24" UniqueID="38" OutlineLevel="3" Name="Desenvolvimento dos Treinamentos" Duration="1d" RemainingDuration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="25" UniqueID="44" OutlineLevel="3" Name="Prepara&#231;&#227;o Terminais M&#243;veis das Equipes de Vendas Externas" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="26" UniqueID="26" OutlineLevel="3" Name="Treinamento Equipe de Suporte/TI" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="27" UniqueID="25" OutlineLevel="3" Name="Treinamento Funcion&#225;rios Setor de Vendas" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="27" UniqueID="25" OutlineLevel="3" Name="Treinamento Funcion&#225;rios Setor de Vendas (Internos)" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 			<task ID="28" UniqueID="24" OutlineLevel="3" Name="Treinamento Vendedores Externos" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
-			<task ID="29" UniqueID="44" OutlineLevel="3" Name="Avalia&#231;&#227;o dos Resultado dos Treinamentos" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
+			<task ID="29" UniqueID="58" OutlineLevel="2" Name="Transi&#231;&#227;o para Opera&#231;&#227;o de Vendas e Suporte" Duration="1d" Start="2011-06-13T08:00" Finish="2011-06-13T17:00" EarlyStart="2011-06-13T08:00" EarlyFinish="2011-06-13T17:00" LateStart="2011-06-13T08:00" LateFinish="2011-06-13T17:00" Critical="yes" EffortDriven="yes" FixedCostAccrual="Prorated"/>
 		</tasks>
-		<outline current="1"/>
+		<outline current="25"/>
 	</proj>
 	<printInfo mode="scale" orient="landscape" pagesWide="1" pagesHigh="1" scale="100%" bw="no" enlarge="no" byColumn="no" adjustPageBreaks="no" marginTop="36pt" marginLeft="36pt" marginBottom="36pt" marginRight="36pt"/>
 	<pageLayouts>
@@ -473,6 +473,12 @@
 				</row>
 			</grid>
 <wbs_diff>
+	<treediff id="35">
+		<item calign="independent" adjust="0.75pt"/>
+	</treediff>
+	<treediff id="1">
+		<item calign="branch_nearest"/>
+	</treediff>
 	<treediff id="21">
 		<item listmode="stemleft"/>
 	</treediff>
@@ -485,6 +491,9 @@
 	<treediff id="23">
 		<item listmode="stemleft"/>
 	</treediff>
+	<treediff id="7">
+		<item calign="branch_nearest"/>
+	</treediff>
 	<treediff id="53">
 		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
@@ -495,7 +504,10 @@
 		<item listmode="stemleft"/>
 	</treediff>
 	<treediff id="6">
-		<item calign="branch_nearest" listmode="stemleft"/>
+		<item calign="branch_nearest"/>
+	</treediff>
+	<treediff id="3">
+		<item calign="branch_nearest"/>
 	</treediff>
 	<treediff id="45">
 		<item calign="branch_nearest" listmode="stemleft"/>
@@ -515,8 +527,8 @@
 	<treediff id="32">
 		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
-	<treediff id="37">
-		<item calign="branch_nearest" listmode="stemleft"/>
+	<treediff id="5">
+		<item calign="branch_nearest"/>
 	</treediff>
 	<treediff id="18">
 		<item listmode="stemleft"/>
@@ -527,7 +539,13 @@
 	<treediff id="20">
 		<item listmode="stemleft"/>
 	</treediff>
+	<treediff id="4">
+		<item calign="branch_nearest"/>
+	</treediff>
 	<treediff id="38">
+		<item calign="branch_nearest" listmode="stemleft"/>
+	</treediff>
+	<treediff id="44">
 		<item calign="branch_nearest" listmode="stemleft"/>
 	</treediff>
 	<treediff id="26">
@@ -539,8 +557,8 @@
 	<treediff id="24">
 		<item listmode="stemleft"/>
 	</treediff>
-	<treediff id="44">
-		<item calign="branch_nearest" listmode="stemleft"/>
+	<treediff id="58">
+		<item calign="branch_nearest"/>
 	</treediff>
 </wbs_diff>
 
