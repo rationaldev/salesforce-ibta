@@ -1,0 +1,65 @@
+
+################ Aula 1 - 01/10/11 ####################
+
+
+1 - Gestão de Programas e Projetos
+
+Fazer com grande eficiência é o papel do gerente de projetos.
+Um gerente de projetos não deve questionar o escopo do projeto, ele deve apenas executar com eficiência.
+
+O foco do gerente de projetos está no escopo. Por isso ele deve evitar ao máximo alterações de escopo.
+
+O foco do gerente de programas está no cliente, na percepção e no benefício do usuário.
+O gerente de programas deve gerir algo de forma a trazer o máximo de benefícios possiveis para a organização.
+O gerente de programas gerencia os gerentes de projetos.
+
+O ciclo de vida de um programa não termina com o projeto, ele vai além.
+
+O foco de um programa está no benefício.
+Classificar o conjunto de projetos em um programa, melhora a gestão do benefício.
+
+Gerente de projetos gerencia entregas.
+Gerente de programas gerencia resultados e benefícios.
+
+
+2 - Gestão de Portifólio
+
+Administração -> Estratégia -> Processo
+
+
+################ Aula 2 - 01/10/11 ####################
+
+SMO, garantir que a estratégia da organização seja divulgada pra todos
+SMO é o elo de ligação entre a diretoria executiva e a área de projetos da organização
+
+Iniciativas de estratégias -> Ganho estratégico
+			   -> Ganho operacional
+
+Grupo de Processos de Gerenciamento de Portifólio
+Processo de Planejamento Estratégico -> Processo de Alinhamento -> Processo de Monitoramento e Controle -> Processo de Componentes
+
+Categorias de Projetos de TI:
+
+	Requisito Legal
+	Inovação
+	Aumento de Mercado
+	Requisito de Negócio
+	Melhoria Contínua
+	Redução de Riscos
+
+Modelo de Avaliação Multicritério
+
+Critérios:
+
+Fatores de Projeto:	ROI
+			Custo
+			Duração
+			Recursos
+			Riscos
+Estratégico:		Mercado
+			Processos Internos
+			Pessoas	
+			Meio Ambiente
+
+
+
