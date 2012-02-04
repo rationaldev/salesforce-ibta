@@ -1,0 +1,4 @@
+PH - Phase
+RW - Release Week
+WP - Work Package
+D - Disturbance
