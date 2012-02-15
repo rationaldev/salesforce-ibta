@@ -1,0 +1,8 @@
+        14          globale Zeit in Wochen
+        14          zuletzt berechnete Woche
+         0          Sekundenzähler bei Programm-/Timerstart
+         0          globaler Sekundenzähler für Timer
+         0          Timer Start=1 / Stop=0 via Menue
+         1          Berechnung erlaubt = 1
+         0          SPL-Berichtsdaten verfügbar bis Periode
+         1          zuletzt berechnete Phase
